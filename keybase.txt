@@ -4,7 +4,7 @@ https://keybase.io/linybear
 
 I hereby claim:
 
-  * I am an admin of https://www.linusaur.us
+  * I am an admin of https://linusaur.us
   * I am linybear (https://keybase.io/linybear) on keybase.
   * I have a public key with fingerprint CCD2 8159 7E7D 0DEC 1A88  6199 D9A5 9EAB 0A4C 6AEE
 
@@ -21,16 +21,16 @@ To do so, I am signing this object:
             "username": "linybear"
         },
         "service": {
-            "hostname": "www.linusaur.us",
+            "hostname": "linusaur.us",
             "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1430012096,
+    "ctime": 1430097126,
     "expire_in": 157680000,
-    "prev": "954854a2e79b9b8e2f01db6df171d82892699950cd7cfe7febe2a33554c9e11e",
-    "seqno": 4,
+    "prev": "1c60d10602c07ba4b7eb68874d843be33d36d95a0c654a9c2a204ab02923d84e",
+    "seqno": 7,
     "tag": "signature"
 }
 
@@ -40,23 +40,23 @@ which yields the signature:
 Version: Keybase OpenPGP v2.0.8
 Comment: https://keybase.io/crypto
 
-yMIeAnicbZJpSFVBFMefZpZKEEQLRQgXLSJ73bn7vBZEw/bdCjR6zJ0593lJ733e
-e59rj6joQ2FEC1FURBLRIhVCQQuiGQXtOxZWX8RKoqKNKIrmSn1rvszMOb//f+Yc
-zrURQyK5Gd1t/qzsvpfHM251zUlFVs0s7mwWTJc1CrFmYT0MbpbtJMBLerYTCDGB
-UiYZSMU66ExkQBExDA1hzDBRMRBTJArVCIBQJFS5fqjgNibxIWq7PMYvcZvx6H/4
-9YMJEYnI0hUdJMaIxY012aCiIjNiUB3JoCMNU5EgC6hKsSUZRANQqGJIIjZUAyyZ
-MpFwu9SgHbYYyFSxmKQpjEiarCMsg6JJlOgWP4egD55DaoDT1bbTaALxhHSRwKN1
-NoWwBWElf4n6+voop1I+SXnRlM/lSc8NXOpW82RVECT9WCgOGpODNJjxvz5x03YY
-byVX1IHn264jxBAnaWCHxkiRRRHxGrQiARqStgdxOyRUXTNEvsJ3oC4sSFUMVSES
-6NjEpgGSJSJmasxCOmKGZGBJwxirImU6tUC3wASJyLKqKhQDQmGjfah1XCGm8G+S
-BLf07YRDgpQHQvpq59qsSEZuJHtoZjgMkdyckf9G5GHj8EjHQHdtTc6XVU3upMQp
-rMi7j1y5eXtPwWt//6eyI4Xfc2ZscEp+PD1/5qv48HlDxYTtb/orFpTiqtbTPf35
-tP31pDl913vzZn3LnHhjdva69HLx64u74w5v2fzh1qu87L6e9PSdWmezuLpu5cas
-9jtjV9QPm3u2pPp027LiHTVr5tsnWx90FrR0RLP8eUcre3t/Lrk47l0xyp/xri9R
-Vj7SYFDRe2z02NYpvwrLH5/c9/nebHx0xMDMD23OwKa9Y7alPza9r717YeuPrml5
-x6LxlkPPD+Rn7qpsOPfk4IL7kxdeGv9s6cLpOZnKou3B4padpeqjyz3qieBt2bMd
-Z9b9Lpg6KndgaqL/D+z5LDY=
-=Q8N8
+yMIiAnicbZJbSFRBHMZ3s91qKzLKB227cOohYlfmXPZcFqOiG0QQLZlRgsyZmbOe
+1HO2c86uu3R5ELILUnShoqSbVCRhFAllFlu5FSiJIApZSRGGFWT6kPYQzZGil+Zl
+Zv7/7/vNzMd0zM7zBLzPbtkr/R/fXfd2Plmd9JSubBjay6gmzjDRvUwVmZw03YgT
+K2HphsNEGYQwJ7MRRSISBpggFsqyyCoKVmBEIVAFUEAiJIQJMZWm7TooRoU2KdZN
+WqObCh3T6n/0VZMNwAJWkwSJcBhDjYJFXkZA4DGUkcTyRGJFBQHIagRFkKJxMhQJ
+EZAgc0CRIzLReIQBpLjkJE7RMOGRoGFOFDDkRF5iFZ4IIoegpNG1K7SJZcAaQtXV
+upFRCbSY/SGGVlM6Im4E7kv+KZI2TFrFSZtaE5bpmMispo1Kx0nYUdfoZBKuspao
+FX8YFapuYBojdaSIZeumwURZqkSO7kJZgQdAkVhODDEkndAtUqG7iogkyoAO9xyS
+okgWiQCzQAQcApIKBVUiqijLkoBlgVcJz2NexEoEAiRGBKggDnJAoBlzCsdTiRuy
+TfYYJhOV6DVhnCJtPW5AJ2kRZv/TbPlUjzfg8fumuB/BE5iR//d7tISne1rPV3vT
+C5bX39neM5TZUtd18O2+X0XLSnyfh5/9Kmtg193PHhAHC9omtgXKks2FD78Pdb9Z
+E9t8xCm4lu4Yy1V9PaRvacruXphrD84fFBLltS3xxTG+fyYp/cE0rRk7g5sWRzfm
+Wv3NV0oKlUV153tfd3Y/vxi6Ozqn7W6hb6AI9YVf9d/78C3+YtbPC7H2xht5eFXt
+0kD2XHCc7b1Y07pzfcOVnvzHGy5PC+7qv3H2+Jcdw76x8SeLbo40rj79aNOxYF3q
+20T92q2j6fLYy1krGg/dLindxVwaf3d1ztEHb+et8J8NLjlhevvWhQ9PXA9+Ovn+
+QnjbaNepgfvh+pnFI7m5od+rzi1x
+=A7Bn
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
