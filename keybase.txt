@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/linusaurusrex
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://linusaur.us
+  * I am linusaurusrex (https://keybase.io/linusaurusrex) on keybase.
+  * I have a public key with fingerprint BFF9 FE07 C587 88BC E721  C47D 1EDC 0F68 EC68 0BEA
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010134cf57873036352bff17b75324d35d516352ae63b62f1ef19e389611e45aa8c70a",
+            "fingerprint": "bff9fe07c58788bce721c47d1edc0f68ec680bea",
+            "host": "keybase.io",
+            "key_id": "1edc0f68ec680bea",
+            "kid": "010134cf57873036352bff17b75324d35d516352ae63b62f1ef19e389611e45aa8c70a",
+            "uid": "133c2dc4957bcdf76f07c3cbaa881419",
+            "username": "linusaurusrex"
+        },
+        "service": {
+            "hostname": "linusaur.us",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1456453368,
+    "expire_in": 157680000,
+    "prev": "0061b777432ad35e6e793b8262192750a6ebd18576cd9b9015e7c467e561a4a4",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJbbA1BGD5FaZsUiZRQSjZISsvOXmZ2jxRRbw2q7i1Od2Znj9XaPXbP
+9hIaJBoqUQni2tIokj4gStoS1xK00rhEWiXiweXBJXFrtU1cZosX8WheJvP/3/f9
+3/9lbiYODCTESHXvCg6OgV9j7l6v8gJL7zX0bOCwrZdywQ1cAe2/aKFO3WiowNS5
+IMcDHogSMWSkIJEXoSgL2DAAwkgWBUkXZV0GflGjUMRQMAA1gEpFRYUAUEnWNIUg
+XuPSOMO0wtSJOKYVZbJMQzUoj4isIEXBhCIBEAnpgOqEN6BCCVR4TH3iGtv1Gcwc
+1lw6zbRZjT1C/fb+gf/Pvr1fc0SRCDqRVBlhohsIGsy7SDDDKUACqg90qWNp6yhD
+F5qW52qe47kOLeHK0jjWKjIJ9dP11/kLNs1zGT/i2FGb2IWssSYajbhBnxgtjfjI
+YopDvzVC2LR0liVjFFHHNW2LCwKGJFHTFwWSDCVZFKGSxtGSiOnQkOkjZMQCYsef
+Q4v8gHgIMEJIEgWNxUEhRaqIFQEKQBWQzGuQYh0ojEd0Fas8kCkiEkRUhkCTNInz
+t1pv2UxbZD61MNN0zbClRT2HcmXN11YOCsQkBAbHDvA/WSAhfvifrzfhS1ygaVzs
+4s3LPlRMOXen7/OWjP0DZz+cvK8i+ZgwdCZoXdWZOOJG/JakndngcWPKoeztc/OP
+T+3rtDsunDib8iPctvTU5ebL9a+nL+mqO3+krutjqLzaert68/FLralXKzeOja89
+03RbeZTTWZ5ObqQmPi+vXJRV8bG4qebT96SW2Lrs/Dmnnx7OyhXau6vfT41ZXpPb
+HTdLX7B7Ps3btBeMXJFwYPKkrAcNOZnjv+G27K1X5Bmvh60qDlvJmdrz0yc97227
+29qVeatnyo7GPWetZ8FRL6pKayd+eJO3vXdIRqJXPwnPS+69n3appuPooaQ9a5N2
+oR+1Oa9ejoYtnwrzZm5b+ORi+pgDPwGFQEYn
+=SWeZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/linusaurusrex
+
+==================================================================
